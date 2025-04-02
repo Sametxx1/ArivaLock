@@ -1,1 +1,3 @@
 # ArivaLock
+
+eğitim amaçlıdır!
