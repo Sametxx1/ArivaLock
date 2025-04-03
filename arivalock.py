@@ -112,8 +112,8 @@ class UsernameChecker:
             "HackerRank": "https://hackerrank.com/{}",
             "LeetCode": "https://leetcode.com/{}",
             "Chess.com": "https://chess.com/member/{}",
-            "Lichess": "https://lichess.org/@/{}"
-           "Hepsiburada": "https://www.hepsiburada.com/{}",
+            "Lichess": "https://lichess.org/@/{}",
+            "Hepsiburada": "https://www.hepsiburada.com/{}",
             "Trendyol": "https://www.trendyol.com/{}",
             "Sahibinden": "https://www.sahibinden.com/{}",
             "N11": "https://www.n11.com/{}",
